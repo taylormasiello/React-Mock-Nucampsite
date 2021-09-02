@@ -1,4 +1,4 @@
-# GO TO COMMIT HISTORY BELOW: 
+## pleases see commit history below: 
 ## https://github.com/taylormasiello/-broken-Gif-/commits/master
 ### commit history became compromised, init a new repo from correct final commit, history above ^ (completed project in bootcamp around Mar 2021)
 
