@@ -1,3 +1,9 @@
+# GO TO COMMIT HISTORY BELOW: 
+## https://github.com/taylormasiello/-broken-Gif-/commits/master
+### commit history became compromised, init a new repo from correct final commit, history above ^ (completed project in bootcamp around Mar 2021)
+
+
+
 # React Rebuild of Nucampsite
 ## Rebuilding Nucampsite (originally made in Bootstrap) with React 
 
